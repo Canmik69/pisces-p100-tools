@@ -19,8 +19,8 @@ These values have shown to increase the peer books size to around 200,000. In or
 
 ### Apply peerbook fix 
 
-    sudo wget https://raw.githubusercontent.com/inigoflores/pisces-p100-tools/main/Not_Found_Fix/apply.sh -O - | sudo bash
+    sudo wget https://raw.githubusercontent.com/Canmik69/pisces-p100-tools/main/Not_Found_Fix/apply.sh -O - | sudo bash
 
 ### Restore original version of sys.config 
 
-    sudo wget https://raw.githubusercontent.com/inigoflores/pisces-p100-tools/main/Not_Found_Fix/restore.sh -O - | sudo bash
+    sudo wget https://raw.githubusercontent.com/Canmik69/pisces-p100-tools/main/Not_Found_Fix/restore.sh -O - | sudo bash
